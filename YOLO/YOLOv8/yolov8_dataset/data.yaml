@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Flowers']
+
+roboflow:
+  workspace: dissertation-qmii2
+  project: flower-detection-cvybj
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dissertation-qmii2/flower-detection-cvybj/dataset/3

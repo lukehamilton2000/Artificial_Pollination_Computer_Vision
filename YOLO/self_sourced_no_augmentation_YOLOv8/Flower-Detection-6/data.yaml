@@ -1,0 +1,12 @@
+names:
+- Flowers
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: flower-detection-cvybj
+  url: https://universe.roboflow.com/dissertation-qmii2/flower-detection-cvybj/dataset/6
+  version: 6
+  workspace: dissertation-qmii2
+test: ../test/images
+train: ../train/images
+val: ../valid/images
