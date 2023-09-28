@@ -1,7 +1,6 @@
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
-import os
 import cv2
 from ultralytics import YOLO
 
