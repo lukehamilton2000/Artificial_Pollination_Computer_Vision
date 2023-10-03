@@ -1,0 +1,7 @@
+yolo task=detect 
+mode=train 
+model="E:\University\Bristol\Dissertation\Roboflow\YOLO\YOLOv8\yolov8n.pt"  
+data="E:\University\Bristol\Dissertation\Roboflow\YOLO\YOLOv8\yolov8_dataset\
+data.yaml"  
+epochs=10
+imgsz=640
