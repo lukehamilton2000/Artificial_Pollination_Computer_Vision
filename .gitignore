@@ -161,3 +161,4 @@ cython_debug/
 self-sourced/video_source.MP4
 Diss_YOLO_Transfer_Learning.git/objects/pack/pack-b4533ee51545e1a2d49d0a463d78162ede77d5b3.pack
 bfg.jar
+mono_depth/mono_640x192_eigen.npy
