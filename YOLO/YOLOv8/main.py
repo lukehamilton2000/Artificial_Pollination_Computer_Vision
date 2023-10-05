@@ -1,11 +1,8 @@
+
 from roboflow import Roboflow
-
-
-# create a roboflow object (dowwload the dataset)
 rf = Roboflow(api_key="yoV7Fcn9ZtuEEvCfJ74L")
-project = rf.workspace("dissertation-qmii2").project("flower-detection-cvybj")
-dataset = project.version(3).download("yolov8")
-
+project = rf.workspace("dissertation-qmii2").project("flower-detection-online-source")
+dataset = project.version(1).download("yolov8")
 
 
 # create object model as Yolo Version 8
