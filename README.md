@@ -13,7 +13,7 @@ Here you can see a deployment of one of the models produced.
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul)">
  <source media="(prefers-color-scheme: light)" srcset="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul)">
- <img alt="YOUR-ALT-TEXT" src="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul)">
+ <img alt="ALT-TEXT - Flower detection models showcassed by bounding boxes around detected flowerrs" src="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul.jpg)">
 </picture>
 
 https://youtu.be/y5Wwh7WTQWo
