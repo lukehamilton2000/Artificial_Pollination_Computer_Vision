@@ -9,7 +9,8 @@ The goal of this project was to produce a vision system capable of running on a 
 
 ## Deployment
 Here you can see a deployment of one of the models produced.
-https://youtu.be/y5Wwh7WTQWo/hqdefault.jpg
+
+https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefault.jpg
 
 ## Data-sets
 This repo also contains a bespoke dataset and a online-sourced dataset for training and compairson purposes. 
