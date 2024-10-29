@@ -8,4 +8,4 @@ the process. The vision system is capable of detecting tomato flowers within a t
 The goal of this project was to produce a vision system capable of running on a low-end system to be intergrated into a robotic arm. A plan for other parts of the pollinator is also conceived, with sections for depth estimation, intrinsic camera properties and path finding.
 
 ## Data-sets
-The repo also contains a bespoke dataset for training the models to detect yellow tomato flowers.
+This repo also contains a bespoke dataset and a online-sourced dataset for training and compairson purposes. 
