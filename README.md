@@ -9,3 +9,6 @@ The goal of this project was to produce a vision system capable of running on a 
 
 ## Data-sets
 This repo also contains a bespoke dataset and a online-sourced dataset for training and compairson purposes. 
+
+## License 
+This project was done in colloberation with my university for my masters's thesis and thus no one may reproduce, distribute, or create derivative works from this work
