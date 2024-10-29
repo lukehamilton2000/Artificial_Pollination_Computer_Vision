@@ -8,7 +8,7 @@ the process. The vision system is capable of detecting tomato flowers within a t
 The goal of this project was to produce a vision system capable of running on a low-end system to be intergrated into a robotic arm. A plan for other parts of the pollinator is also conceived, with sections for depth estimation, intrinsic camera properties and path finding.
 
 ## Deployment
-Here you can see a deployment of one of the models produced.
+Here you can see a deployment of one of the models I produced.
 
 [![Video](https://img.youtube.com/vi/y5Wwh7WTQWo/maxresdefault.jpg)](https://youtu.be/y5Wwh7WTQWo)
 
