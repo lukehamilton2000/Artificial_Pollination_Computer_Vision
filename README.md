@@ -10,15 +10,8 @@ The goal of this project was to produce a vision system capable of running on a 
 ## Deployment
 Here you can see a deployment of one of the models produced.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul)">
- <source media="(prefers-color-scheme: light)" srcset="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul)">
- <img alt="ALT-TEXT - Flower detection models showcassed by bounding boxes around detected flowerrs" src="(https://img.youtube.com/vi/y5Wwh7WTQWo/hqdefaul.jpg)">
-</picture>
+[![Video](https://img.youtube.com/vi/y5Wwh7WTQWo/maxresdefault.jpg)](https://youtu.be/y5Wwh7WTQWo)
 
-https://youtu.be/y5Wwh7WTQWo
-
-t.jpg
 
 ## Data-sets
 This repo also contains a bespoke dataset and a online-sourced dataset for training and compairson purposes. 
